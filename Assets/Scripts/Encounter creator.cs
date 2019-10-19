@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 [CreateAssetMenu(fileName = "New Encounter", menuName = "Encounter")]
-public class EventMaker : ScriptableObject
+public class EncountertMaker : ScriptableObject
 {
     public new string name;
     public string description;
