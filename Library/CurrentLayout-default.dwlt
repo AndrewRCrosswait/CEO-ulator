@@ -382,7 +382,7 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
+      m_SelectedIDs: b0310000
       m_LastClickedID: 0
       m_ExpandedIDs: 8cf7ffffb6f7ffff52f8ffff5af8ffff62f8ffffc0faffff52fbffff
       m_RenameOverlay:
@@ -444,9 +444,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 523.47327, y: 381.9079, z: -223.06245}
+    m_Target: {x: 957.4888, y: 505.6377, z: -486.8125}
     speed: 2
-    m_Value: {x: 523.47327, y: 381.9079, z: -223.06245}
+    m_Value: {x: 957.4888, y: 505.6377, z: -486.8125}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -479,7 +479,7 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 438.27264
+    m_Target: 535.9836
     speed: 2
     m_Value: 438.27264
   m_Ortho:
@@ -691,9 +691,9 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 452
-    width: 1087
-    height: 237
+    y: 436
+    width: 988
+    height: 253
   m_ViewDataDictionary: {fileID: 0}
 --- !u!114 &18
 MonoBehaviour:

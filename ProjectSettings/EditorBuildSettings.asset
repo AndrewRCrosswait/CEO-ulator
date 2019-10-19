@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Daily Transition.unity
+    guid: 123d5ed020f24f54aa34b3bb072444b9
   m_configObjects: {}
