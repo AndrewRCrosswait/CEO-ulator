@@ -2,10 +2,10 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-[CreateAssetMenu(fileName ="New Event", menuName ="Event")]
+[CreateAssetMenu(fileName ="New Event", menuName ="Scenario")]
 public class EventMaker : ScriptableObject
 {
-    public new string name;
+    public string eventName;
     public string eventDescription;
 
 

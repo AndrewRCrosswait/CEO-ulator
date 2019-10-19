@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 0}
   m_Name: test event
   m_EditorClassIdentifier: Assembly-CSharp::EventMaker
-  name: test
+  eventName: Test
   eventDescription: 
   artwork: {fileID: 0}
   btn1Name: 
