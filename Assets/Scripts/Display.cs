@@ -12,6 +12,7 @@ public class Display : MonoBehaviour
 
     void Start()
     {
+
         nameText.text = card.name;
         Cost.text = card.Cost.ToString();
 

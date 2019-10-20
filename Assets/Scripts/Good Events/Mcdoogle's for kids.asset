@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Mcdoogle's for kids
   m_EditorClassIdentifier: 
   name: Give children Mcdoogle's
-  Cost: 0
+  Cost: 5000
   RefNo: 3
   deltaMD: 0
   deltaPol: 0

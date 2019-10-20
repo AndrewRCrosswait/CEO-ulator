@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokemongotothepoles
   m_EditorClassIdentifier: 
   name: Host pokemon GO event at public offices
-  Cost: 0
+  Cost: 2000
   RefNo: 1
   deltaMD: 0
   deltaPol: 0
