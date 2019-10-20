@@ -20,6 +20,8 @@ public class EventMaker : ScriptableObject
     public int btn1DeltaMC;  //Mining company
     public int btn1DeltaRE;  //Real estate
     public int btn1DeltaGW; // Goodwill modifier
+    public int btn1DeltaProfit; //Profit modifier
+    public int btn1DeltaDeaths; //Deaths modifier
 
     public string btn2Name;
     public int btn2DeltaMD;  //Mcdoogles
@@ -28,4 +30,6 @@ public class EventMaker : ScriptableObject
     public int btn2DeltaMC;  //Mining company
     public int btn2DeltaRE;  //Real estate
     public int btn2DeltaGW; // Goodwill modifier
+    public int btn2DeltaProfit; //Profit modifier   
+    public int btn2DeltaDeaths; //Deaths modifier
 }
